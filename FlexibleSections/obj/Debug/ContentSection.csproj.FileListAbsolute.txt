@@ -1,0 +1,5 @@
+C:\AJ\WF\ContentSection\ContentSection\bin\Debug\ContentSection.dll
+C:\AJ\WF\ContentSection\ContentSection\bin\Debug\ContentSection.pdb
+C:\AJ\WF\ContentSection\ContentSection\obj\Debug\ContentSection.csprojResolveAssemblyReference.cache
+C:\AJ\WF\ContentSection\ContentSection\obj\Debug\ContentSection.dll
+C:\AJ\WF\ContentSection\ContentSection\obj\Debug\ContentSection.pdb
