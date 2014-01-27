@@ -7,8 +7,8 @@
     <ProjectGuid>{F2C52347-5C93-4966-B02A-A4EDDD4E63B8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ContentSection</RootNamespace>
-    <AssemblyName>ContentSection</AssemblyName>
+    <RootNamespace>FlexibleSections</RootNamespace>
+    <AssemblyName>FlexibleSections</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
@@ -41,10 +41,6 @@
     <Compile Include="Section.cs" />
     <Compile Include="HtmlHelpers.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="FlexibleSections.nuspec" />
-    <None Include="Views\web.config.transform" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

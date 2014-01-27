@@ -1,9 +1,5 @@
-C:\AJ\Personal\FlexibleSections\ContentSection\bin\Debug\ContentSection.dll
-C:\AJ\Personal\FlexibleSections\ContentSection\bin\Debug\ContentSection.pdb
-C:\AJ\Personal\FlexibleSections\ContentSection\obj\Debug\ContentSection.dll
-C:\AJ\Personal\FlexibleSections\ContentSection\obj\Debug\ContentSection.pdb
-C:\AJ\Personal\FlexibleSections\FlexibleSections\bin\Debug\ContentSection.dll
-C:\AJ\Personal\FlexibleSections\FlexibleSections\bin\Debug\ContentSection.pdb
+C:\AJ\Personal\FlexibleSections\FlexibleSections\bin\Debug\FlexibleSections.dll
+C:\AJ\Personal\FlexibleSections\FlexibleSections\bin\Debug\FlexibleSections.pdb
 C:\AJ\Personal\FlexibleSections\FlexibleSections\obj\Debug\FlexibleSections.csprojResolveAssemblyReference.cache
-C:\AJ\Personal\FlexibleSections\FlexibleSections\obj\Debug\ContentSection.dll
-C:\AJ\Personal\FlexibleSections\FlexibleSections\obj\Debug\ContentSection.pdb
+C:\AJ\Personal\FlexibleSections\FlexibleSections\obj\Debug\FlexibleSections.dll
+C:\AJ\Personal\FlexibleSections\FlexibleSections\obj\Debug\FlexibleSections.pdb
