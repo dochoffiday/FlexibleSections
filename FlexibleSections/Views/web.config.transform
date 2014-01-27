@@ -1,0 +1,11 @@
+﻿<configuration>
+  <configSections>
+    <system.web.webPages.razor>
+      <pages>
+        <namespaces>
+          <add namespace="FlexibleSections" />
+        </namespaces>
+      </pages>
+    </system.web.webPages.razor>
+  </configSections>
+</configuration>
