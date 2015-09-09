@@ -1,5 +1,0 @@
-C:\AJ\Personal\FlexibleSections\FlexibleSections\bin\Debug\FlexibleSections.dll
-C:\AJ\Personal\FlexibleSections\FlexibleSections\bin\Debug\FlexibleSections.pdb
-C:\AJ\Personal\FlexibleSections\FlexibleSections\obj\Debug\FlexibleSections.csprojResolveAssemblyReference.cache
-C:\AJ\Personal\FlexibleSections\FlexibleSections\obj\Debug\FlexibleSections.dll
-C:\AJ\Personal\FlexibleSections\FlexibleSections\obj\Debug\FlexibleSections.pdb
